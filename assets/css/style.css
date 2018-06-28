@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: darkcyan;
+    width: 80%;
+    margin: 0 auto;
+}
+
+p {
+    color: maroon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
